@@ -87,3 +87,17 @@ ul {
   font-size: 15px;
   padding:10px;
 }
+.links{
+  color: rgb(65, 122, 141);
+}
+#above_quad{
+
+  margin: 10 auto;
+  padding-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#quadimages img{
+  width: 300px;
+  height: 225px;
+}
