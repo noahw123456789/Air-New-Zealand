@@ -53,7 +53,7 @@ ul {
   width: 1850px;
 }
 #midcontainer{
-  width: 1300px;
+  width: 1700px;
   margin: 0 auto;
   height: 250px;
   font-family: Arial, Helvetica, sans-serif;
@@ -67,6 +67,7 @@ ul {
   height: 50px;
 }
 #first_triplet{
+  margin: 0 65px;
   width: 400px;
   height: 200px;
   float: left;
@@ -74,6 +75,7 @@ ul {
   padding:10px;
 }
 #second_triplet{
+  margin: 0 65px;
   width: 400px;
   height: 200px;
   float: left;
@@ -81,6 +83,7 @@ ul {
   padding :10px
 }
 #third_triplet{
+  margin: 0 65px;
   width: 400px;
   height: 200px;
   float: left;
@@ -90,14 +93,41 @@ ul {
 .links{
   color: rgb(65, 122, 141);
 }
+#lowercontainer{
+  width: 1700px;
+  margin: 0 auto;
+}
 #above_quad{
-
-  margin: 10 auto;
-  padding-top: 10px;
+  float: left;
+  margin-right: 1400px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#quadimages img{
+#lowercontainer img{
+  width: 300px;
+  height: 200px;
+}
+#quad1{
+  width:300px;
+  margin: 0 auto;
+  height: 225px;
+  float: left;
+}
+#quad2{
+  width:300px;
+  margin: 0 auto;
+  height: 225px;
+  float: left;
+}
+#quad3{
   width: 300px;
   height: 225px;
+  float: left;
+  margin: 0 auto;
+}
+#quad4{
+  width:300px;
+  margin: 0 auto;
+  height: 225px;
+  float: left;
 }
