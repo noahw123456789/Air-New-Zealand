@@ -55,7 +55,7 @@ ul {
 #midcontainer{
   width: 1700px;
   margin: 0 auto;
-  height: 250px;
+
   font-family: Arial, Helvetica, sans-serif;
 }
 #abovetriplet{
@@ -96,6 +96,7 @@ ul {
 #lowercontainer{
   width: 1700px;
   margin: 0 auto;
+  align-items: center;
 }
 #above_quad{
   float: left;
@@ -108,26 +109,31 @@ ul {
   height: 200px;
 }
 #quad1{
+  margin-left: 200px;
   width:300px;
-  margin: 0 auto;
-  height: 225px;
+  margin-right: 5px;
+  height: 500px;
   float: left;
+  font-size: 15px;
 }
 #quad2{
   width:300px;
-  margin: 0 auto;
-  height: 225px;
+  margin: 0 5px;
+  height: 500px;
   float: left;
 }
 #quad3{
   width: 300px;
-  height: 225px;
+  height: 500px;
   float: left;
-  margin: 0 auto;
+  margin: 0 5px;
 }
 #quad4{
   width:300px;
-  margin: 0 auto;
-  height: 225px;
+  margin: 0 5px;
+  height: 500px;
   float: left;
+}
+div{
+  border: solid red;
 }
